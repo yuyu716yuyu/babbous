@@ -1,6 +1,6 @@
 # 嗨！我是 李渔 👋
 
-GitHub 用户名：@babboos  
+GitHub 用户名：@babbous  
 小透明，正在慢慢玩转 GitHub ～
 
 ### 关于我
